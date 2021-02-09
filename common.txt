@@ -3,3 +3,4 @@ LINE 2
 LINE 3
 ------
 line 1
+line 2
